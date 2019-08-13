@@ -1,0 +1,321 @@
+State,District,Date,Crop,current temperature ,Lower Required Temperature Range,Upper Required Temperature Range,rainfall,wind (High/Low),humidity(High/Low)
+Bihar,Bhagalpur,16th March,Wheat,19,21,24,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Rice,19,20,27,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Jowar,19,25,32,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Rajma,19,15,25,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Maize,19,18,27,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Millet,19,15,20,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Soyabean,19,20,25,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Bajra,19,20,30,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Cardamom,19,15,33,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Garlic,19,15,23,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Turmeric,19,20,28,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Ginger,19,28,30,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Dry Chillies,19,45,50,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Cater Oil Seed,19,14,15,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Sunflower Seeds,19,4,10,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Cotton Seeds,19,22,36,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Moong,19,27,30,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Lemons,19,10,35,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Cauliflower,19,17,22,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Green Peas,19,10,30,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Pumpkins,19,18,27,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Potatos,19,15,20,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Gourds,19,20,32,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Tomatos,19,21,24,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Cabbages,19,15,21,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Onions,19,10,25,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Pigeon Peas,19,25,35,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Brinjal,19,26,40,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Cashew Nuts,19,10,40,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Groundnuts,19,26,35,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Tea ,19,20,27,0,LOW,HIGH
+Bihar,Bhagalpur,16th March,Coffee,19,15,27,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Wheat,17,21,24,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Rice,17,20,27,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Jowar,17,25,32,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Rajma,17,15,25,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Maize,17,18,27,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Millet,17,15,20,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Soyabean,17,20,25,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Bajra,17,20,30,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Cardamom,17,15,33,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Garlic,17,15,23,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Turmeric,17,20,28,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Ginger,17,28,30,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Dry Chillies,17,45,50,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Cater Oil Seed,17,14,15,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Sunflower Seeds,17,4,10,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Cotton Seeds,17,22,36,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Moong,17,27,30,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Lemons,17,10,35,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Cauliflower,17,17,22,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Green Peas,17,10,30,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Pumpkins,17,18,27,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Potatos,17,15,20,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Gourds,17,20,32,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Tomatos,17,21,24,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Cabbages,17,15,21,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Onions,17,10,25,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Pigeon Peas,17,25,35,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Brinjal,17,26,40,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Cashew Nuts,17,10,40,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Groundnuts,17,26,35,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Tea ,17,20,27,0,LOW,HIGH
+Bihar,Darbhanga,16th March,Coffee,17,15,27,0,LOW,HIGH
+Bihar,Katihar,16th March,Wheat,19,21,24,0,LOW,HIGH
+Bihar,Katihar,16th March,Rice,19,20,27,0,LOW,HIGH
+Bihar,Katihar,16th March,Jowar,19,25,32,0,LOW,HIGH
+Bihar,Katihar,16th March,Rajma,19,15,25,0,LOW,HIGH
+Bihar,Katihar,16th March,Maize,19,18,27,0,LOW,HIGH
+Bihar,Katihar,16th March,Millet,19,15,20,0,LOW,HIGH
+Bihar,Katihar,16th March,Soyabean,19,20,25,0,LOW,HIGH
+Bihar,Katihar,16th March,Bajra,19,20,30,0,LOW,HIGH
+Bihar,Katihar,16th March,Cardamom,19,15,33,0,LOW,HIGH
+Bihar,Katihar,16th March,Garlic,19,15,23,0,LOW,HIGH
+Bihar,Katihar,16th March,Turmeric,19,20,28,0,LOW,HIGH
+Bihar,Katihar,16th March,Ginger,19,28,30,0,LOW,HIGH
+Bihar,Katihar,16th March,Dry Chillies,19,45,50,0,LOW,HIGH
+Bihar,Katihar,16th March,Cater Oil Seed,19,14,15,0,LOW,HIGH
+Bihar,Katihar,16th March,Sunflower Seeds,19,4,10,0,LOW,HIGH
+Bihar,Katihar,16th March,Cotton Seeds,19,22,36,0,LOW,HIGH
+Bihar,Katihar,16th March,Moong,19,27,30,0,LOW,HIGH
+Bihar,Katihar,16th March,Lemons,19,10,35,0,LOW,HIGH
+Bihar,Katihar,16th March,Cauliflower,19,17,22,0,LOW,HIGH
+Bihar,Katihar,16th March,Green Peas,19,10,30,0,LOW,HIGH
+Bihar,Katihar,16th March,Pumpkins,19,18,27,0,LOW,HIGH
+Bihar,Katihar,16th March,Potatos,19,15,20,0,LOW,HIGH
+Bihar,Katihar,16th March,Gourds,19,20,32,0,LOW,HIGH
+Bihar,Katihar,16th March,Tomatos,19,21,24,0,LOW,HIGH
+Bihar,Katihar,16th March,Cabbages,19,15,21,0,LOW,HIGH
+Bihar,Katihar,16th March,Onions,19,10,25,0,LOW,HIGH
+Bihar,Katihar,16th March,Pigeon Peas,19,25,35,0,LOW,HIGH
+Bihar,Katihar,16th March,Brinjal,19,26,40,0,LOW,HIGH
+Bihar,Katihar,16th March,Cashew Nuts,19,10,40,0,LOW,HIGH
+Bihar,Katihar,16th March,Groundnuts,19,26,35,0,LOW,HIGH
+Bihar,Katihar,16th March,Tea ,19,20,27,0,LOW,HIGH
+Bihar,Katihar,16th March,Coffee,19,15,27,0,LOW,HIGH
+Bihar,Jamui,16th March,Wheat,19,21,24,0,LOW,LOW
+Bihar,Jamui,16th March,Rice,19,20,27,0,LOW,LOW
+Bihar,Jamui,16th March,Jowar,19,25,32,0,LOW,LOW
+Bihar,Jamui,16th March,Rajma,19,15,25,0,LOW,LOW
+Bihar,Jamui,16th March,Maize,19,18,27,0,LOW,LOW
+Bihar,Jamui,16th March,Millet,19,15,20,0,LOW,LOW
+Bihar,Jamui,16th March,Soyabean,19,20,25,0,LOW,LOW
+Bihar,Jamui,16th March,Bajra,19,20,30,0,LOW,LOW
+Bihar,Jamui,16th March,Cardamom,19,15,33,0,LOW,LOW
+Bihar,Jamui,16th March,Garlic,19,15,23,0,LOW,LOW
+Bihar,Jamui,16th March,Turmeric,19,20,28,0,LOW,LOW
+Bihar,Jamui,16th March,Ginger,19,28,30,0,LOW,LOW
+Bihar,Jamui,16th March,Dry Chillies,19,45,50,0,LOW,LOW
+Bihar,Jamui,16th March,Cater Oil Seed,19,14,15,0,LOW,LOW
+Bihar,Jamui,16th March,Sunflower Seeds,19,4,10,0,LOW,LOW
+Bihar,Jamui,16th March,Cotton Seeds,19,22,36,0,LOW,LOW
+Bihar,Jamui,16th March,Moong,19,27,30,0,LOW,LOW
+Bihar,Jamui,16th March,Lemons,19,10,35,0,LOW,LOW
+Bihar,Jamui,16th March,Cauliflower,19,17,22,0,LOW,LOW
+Bihar,Jamui,16th March,Green Peas,19,10,30,0,LOW,LOW
+Bihar,Jamui,16th March,Pumpkins,19,18,27,0,LOW,LOW
+Bihar,Jamui,16th March,Potatos,19,15,20,0,LOW,LOW
+Bihar,Jamui,16th March,Gourds,19,20,32,0,LOW,LOW
+Bihar,Jamui,16th March,Tomatos,19,21,24,0,LOW,LOW
+Bihar,Jamui,16th March,Cabbages,19,15,21,0,LOW,LOW
+Bihar,Jamui,16th March,Onions,19,10,25,0,LOW,LOW
+Bihar,Jamui,16th March,Pigeon Peas,19,25,35,0,LOW,LOW
+Bihar,Jamui,16th March,Brinjal,19,26,40,0,LOW,LOW
+Bihar,Jamui,16th March,Cashew Nuts,19,10,40,0,LOW,LOW
+Bihar,Jamui,16th March,Groundnuts,19,26,35,0,LOW,LOW
+Bihar,Jamui,16th March,Tea ,19,20,27,0,LOW,LOW
+Bihar,Jamui,16th March,Coffee,19,15,27,0,LOW,LOW
+Bihar,Gaya,16th March,Wheat,18,21,24,0,LOW,LOW
+Bihar,Gaya,16th March,Rice,18,20,27,0,LOW,LOW
+Bihar,Gaya,16th March,Jowar,18,25,32,0,LOW,LOW
+Bihar,Gaya,16th March,Rajma,18,15,25,0,LOW,LOW
+Bihar,Gaya,16th March,Maize,18,18,27,0,LOW,LOW
+Bihar,Gaya,16th March,Millet,18,15,20,0,LOW,LOW
+Bihar,Gaya,16th March,Soyabean,18,20,25,0,LOW,LOW
+Bihar,Gaya,16th March,Bajra,18,20,30,0,LOW,LOW
+Bihar,Gaya,16th March,Cardamom,18,15,33,0,LOW,LOW
+Bihar,Gaya,16th March,Garlic,18,15,23,0,LOW,LOW
+Bihar,Gaya,16th March,Turmeric,18,20,28,0,LOW,LOW
+Bihar,Gaya,16th March,Ginger,18,28,30,0,LOW,LOW
+Bihar,Gaya,16th March,Dry Chillies,18,45,50,0,LOW,LOW
+Bihar,Gaya,16th March,Cater Oil Seed,18,14,15,0,LOW,LOW
+Bihar,Gaya,16th March,Sunflower Seeds,18,4,10,0,LOW,LOW
+Bihar,Gaya,16th March,Cotton Seeds,18,22,36,0,LOW,LOW
+Bihar,Gaya,16th March,Moong,18,27,30,0,LOW,LOW
+Bihar,Gaya,16th March,Lemons,18,10,35,0,LOW,LOW
+Bihar,Gaya,16th March,Cauliflower,18,17,22,0,LOW,LOW
+Bihar,Gaya,16th March,Green Peas,18,10,30,0,LOW,LOW
+Bihar,Gaya,16th March,Pumpkins,18,18,27,0,LOW,LOW
+Bihar,Gaya,16th March,Potatos,18,15,20,0,LOW,LOW
+Bihar,Gaya,16th March,Gourds,18,20,32,0,LOW,LOW
+Bihar,Gaya,16th March,Tomatos,18,21,24,0,LOW,LOW
+Bihar,Gaya,16th March,Cabbages,18,15,21,0,LOW,LOW
+Bihar,Gaya,16th March,Onions,18,10,25,0,LOW,LOW
+Bihar,Gaya,16th March,Pigeon Peas,18,25,35,0,LOW,LOW
+Bihar,Gaya,16th March,Brinjal,18,26,40,0,LOW,LOW
+Bihar,Gaya,16th March,Cashew Nuts,18,10,40,0,LOW,LOW
+Bihar,Gaya,16th March,Groundnuts,18,26,35,0,LOW,LOW
+Bihar,Gaya,16th March,Tea ,18,20,27,0,LOW,LOW
+Bihar,Gaya,16th March,Coffee,18,15,27,0,LOW,LOW
+Bihar,Nawada,16th March,Wheat,18,21,24,0,LOW,HIGH
+Bihar,Nawada,16th March,Rice,18,20,27,0,LOW,HIGH
+Bihar,Nawada,16th March,Jowar,18,25,32,0,LOW,HIGH
+Bihar,Nawada,16th March,Rajma,18,15,25,0,LOW,HIGH
+Bihar,Nawada,16th March,Maize,18,18,27,0,LOW,HIGH
+Bihar,Nawada,16th March,Millet,18,15,20,0,LOW,HIGH
+Bihar,Nawada,16th March,Soyabean,18,20,25,0,LOW,HIGH
+Bihar,Nawada,16th March,Bajra,18,20,30,0,LOW,HIGH
+Bihar,Nawada,16th March,Cardamom,18,15,33,0,LOW,HIGH
+Bihar,Nawada,16th March,Garlic,18,15,23,0,LOW,HIGH
+Bihar,Nawada,16th March,Turmeric,18,20,28,0,LOW,HIGH
+Bihar,Nawada,16th March,Ginger,18,28,30,0,LOW,HIGH
+Bihar,Nawada,16th March,Dry Chillies,18,45,50,0,LOW,HIGH
+Bihar,Nawada,16th March,Cater Oil Seed,18,14,15,0,LOW,HIGH
+Bihar,Nawada,16th March,Sunflower Seeds,18,4,10,0,LOW,HIGH
+Bihar,Nawada,16th March,Cotton Seeds,18,22,36,0,LOW,HIGH
+Bihar,Nawada,16th March,Moong,18,27,30,0,LOW,HIGH
+Bihar,Nawada,16th March,Lemons,18,10,35,0,LOW,HIGH
+Bihar,Nawada,16th March,Cauliflower,18,17,22,0,LOW,HIGH
+Bihar,Nawada,16th March,Green Peas,18,10,30,0,LOW,HIGH
+Bihar,Nawada,16th March,Pumpkins,18,18,27,0,LOW,HIGH
+Bihar,Nawada,16th March,Potatos,18,15,20,0,LOW,HIGH
+Bihar,Nawada,16th March,Gourds,18,20,32,0,LOW,HIGH
+Bihar,Nawada,16th March,Tomatos,18,21,24,0,LOW,HIGH
+Bihar,Nawada,16th March,Cabbages,18,15,21,0,LOW,HIGH
+Bihar,Nawada,16th March,Onions,18,10,25,0,LOW,HIGH
+Bihar,Nawada,16th March,Pigeon Peas,18,25,35,0,LOW,HIGH
+Bihar,Nawada,16th March,Brinjal,18,26,40,0,LOW,HIGH
+Bihar,Nawada,16th March,Cashew Nuts,18,10,40,0,LOW,HIGH
+Bihar,Nawada,16th March,Groundnuts,18,26,35,0,LOW,HIGH
+Bihar,Nawada,16th March,Tea ,18,20,27,0,LOW,HIGH
+Bihar,Nawada,16th March,Coffee,18,15,27,0,LOW,HIGH
+Bihar,Samastipur,16th March,Wheat,18,21,24,0,LOW,HIGH
+Bihar,Samastipur,16th March,Rice,18,20,27,0,LOW,HIGH
+Bihar,Samastipur,16th March,Jowar,18,25,32,0,LOW,HIGH
+Bihar,Samastipur,16th March,Rajma,18,15,25,0,LOW,HIGH
+Bihar,Samastipur,16th March,Maize,18,18,27,0,LOW,HIGH
+Bihar,Samastipur,16th March,Millet,18,15,20,0,LOW,HIGH
+Bihar,Samastipur,16th March,Soyabean,18,20,25,0,LOW,HIGH
+Bihar,Samastipur,16th March,Bajra,18,20,30,0,LOW,HIGH
+Bihar,Samastipur,16th March,Cardamom,18,15,33,0,LOW,HIGH
+Bihar,Samastipur,16th March,Garlic,18,15,23,0,LOW,HIGH
+Bihar,Samastipur,16th March,Turmeric,18,20,28,0,LOW,HIGH
+Bihar,Samastipur,16th March,Ginger,18,28,30,0,LOW,HIGH
+Bihar,Samastipur,16th March,Dry Chillies,18,45,50,0,LOW,HIGH
+Bihar,Samastipur,16th March,Cater Oil Seed,18,14,15,0,LOW,HIGH
+Bihar,Samastipur,16th March,Sunflower Seeds,18,4,10,0,LOW,HIGH
+Bihar,Samastipur,16th March,Cotton Seeds,18,22,36,0,LOW,HIGH
+Bihar,Samastipur,16th March,Moong,18,27,30,0,LOW,HIGH
+Bihar,Samastipur,16th March,Lemons,18,10,35,0,LOW,HIGH
+Bihar,Samastipur,16th March,Cauliflower,18,17,22,0,LOW,HIGH
+Bihar,Samastipur,16th March,Green Peas,18,10,30,0,LOW,HIGH
+Bihar,Samastipur,16th March,Pumpkins,18,18,27,0,LOW,HIGH
+Bihar,Samastipur,16th March,Potatos,18,15,20,0,LOW,HIGH
+Bihar,Samastipur,16th March,Gourds,18,20,32,0,LOW,HIGH
+Bihar,Samastipur,16th March,Tomatos,18,21,24,0,LOW,HIGH
+Bihar,Samastipur,16th March,Cabbages,18,15,21,0,LOW,HIGH
+Bihar,Samastipur,16th March,Onions,18,10,25,0,LOW,HIGH
+Bihar,Samastipur,16th March,Pigeon Peas,18,25,35,0,LOW,HIGH
+Bihar,Samastipur,16th March,Brinjal,18,26,40,0,LOW,HIGH
+Bihar,Samastipur,16th March,Cashew Nuts,18,10,40,0,LOW,HIGH
+Bihar,Samastipur,16th March,Groundnuts,18,26,35,0,LOW,HIGH
+Bihar,Samastipur,16th March,Tea ,18,20,27,0,LOW,HIGH
+Bihar,Samastipur,16th March,Coffee,18,15,27,0,LOW,HIGH
+Bihar,Purnia,16th March,Wheat,19,21,24,0,LOW,HIGH
+Bihar,Purnia,16th March,Rice,19,20,27,0,LOW,HIGH
+Bihar,Purnia,16th March,Jowar,19,25,32,0,LOW,HIGH
+Bihar,Purnia,16th March,Rajma,19,15,25,0,LOW,HIGH
+Bihar,Purnia,16th March,Maize,19,18,27,0,LOW,HIGH
+Bihar,Purnia,16th March,Millet,19,15,20,0,LOW,HIGH
+Bihar,Purnia,16th March,Soyabean,19,20,25,0,LOW,HIGH
+Bihar,Purnia,16th March,Bajra,19,20,30,0,LOW,HIGH
+Bihar,Purnia,16th March,Cardamom,19,15,33,0,LOW,HIGH
+Bihar,Purnia,16th March,Garlic,19,15,23,0,LOW,HIGH
+Bihar,Purnia,16th March,Turmeric,19,20,28,0,LOW,HIGH
+Bihar,Purnia,16th March,Ginger,19,28,30,0,LOW,HIGH
+Bihar,Purnia,16th March,Dry Chillies,19,45,50,0,LOW,HIGH
+Bihar,Purnia,16th March,Cater Oil Seed,19,14,15,0,LOW,HIGH
+Bihar,Purnia,16th March,Sunflower Seeds,19,4,10,0,LOW,HIGH
+Bihar,Purnia,16th March,Cotton Seeds,19,22,36,0,LOW,HIGH
+Bihar,Purnia,16th March,Moong,19,27,30,0,LOW,HIGH
+Bihar,Purnia,16th March,Lemons,19,10,35,0,LOW,HIGH
+Bihar,Purnia,16th March,Cauliflower,19,17,22,0,LOW,HIGH
+Bihar,Purnia,16th March,Green Peas,19,10,30,0,LOW,HIGH
+Bihar,Purnia,16th March,Pumpkins,19,18,27,0,LOW,HIGH
+Bihar,Purnia,16th March,Potatos,19,15,20,0,LOW,HIGH
+Bihar,Purnia,16th March,Gourds,19,20,32,0,LOW,HIGH
+Bihar,Purnia,16th March,Tomatos,19,21,24,0,LOW,HIGH
+Bihar,Purnia,16th March,Cabbages,19,15,21,0,LOW,HIGH
+Bihar,Purnia,16th March,Onions,19,10,25,0,LOW,HIGH
+Bihar,Purnia,16th March,Pigeon Peas,19,25,35,0,LOW,HIGH
+Bihar,Purnia,16th March,Brinjal,19,26,40,0,LOW,HIGH
+Bihar,Purnia,16th March,Cashew Nuts,19,10,40,0,LOW,HIGH
+Bihar,Purnia,16th March,Groundnuts,19,26,35,0,LOW,HIGH
+Bihar,Purnia,16th March,Tea ,19,20,27,0,LOW,HIGH
+Bihar,Purnia,16th March,Coffee,19,15,27,0,LOW,HIGH
+Bihar,Patna,16th March,Wheat,21,21,24,0,LOW,HIGH
+Bihar,Patna,16th March,Rice,21,20,27,0,LOW,HIGH
+Bihar,Patna,16th March,Jowar,21,25,32,0,LOW,HIGH
+Bihar,Patna,16th March,Rajma,21,15,25,0,LOW,HIGH
+Bihar,Patna,16th March,Maize,21,18,27,0,LOW,HIGH
+Bihar,Patna,16th March,Millet,21,15,20,0,LOW,HIGH
+Bihar,Patna,16th March,Soyabean,21,20,25,0,LOW,HIGH
+Bihar,Patna,16th March,Bajra,21,20,30,0,LOW,HIGH
+Bihar,Patna,16th March,Cardamom,21,15,33,0,LOW,HIGH
+Bihar,Patna,16th March,Garlic,21,15,23,0,LOW,HIGH
+Bihar,Patna,16th March,Turmeric,21,20,28,0,LOW,HIGH
+Bihar,Patna,16th March,Ginger,21,28,30,0,LOW,HIGH
+Bihar,Patna,16th March,Dry Chillies,21,45,50,0,LOW,HIGH
+Bihar,Patna,16th March,Cater Oil Seed,21,14,15,0,LOW,HIGH
+Bihar,Patna,16th March,Sunflower Seeds,21,4,10,0,LOW,HIGH
+Bihar,Patna,16th March,Cotton Seeds,21,22,36,0,LOW,HIGH
+Bihar,Patna,16th March,Moong,21,27,30,0,LOW,HIGH
+Bihar,Patna,16th March,Lemons,21,10,35,0,LOW,HIGH
+Bihar,Patna,16th March,Cauliflower,21,17,22,0,LOW,HIGH
+Bihar,Patna,16th March,Green Peas,21,10,30,0,LOW,HIGH
+Bihar,Patna,16th March,Pumpkins,21,18,27,0,LOW,HIGH
+Bihar,Patna,16th March,Potatos,21,15,20,0,LOW,HIGH
+Bihar,Patna,16th March,Gourds,21,20,32,0,LOW,HIGH
+Bihar,Patna,16th March,Tomatos,21,21,24,0,LOW,HIGH
+Bihar,Patna,16th March,Cabbages,21,15,21,0,LOW,HIGH
+Bihar,Patna,16th March,Onions,21,10,25,0,LOW,HIGH
+Bihar,Patna,16th March,Pigeon Peas,21,25,35,0,LOW,HIGH
+Bihar,Patna,16th March,Brinjal,21,26,40,0,LOW,HIGH
+Bihar,Patna,16th March,Cashew Nuts,21,10,40,0,LOW,HIGH
+Bihar,Patna,16th March,Groundnuts,21,26,35,0,LOW,HIGH
+Bihar,Patna,16th March,Tea ,21,20,27,0,LOW,HIGH
+Bihar,Patna,16th March,Coffee,21,15,27,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Wheat,25,21,24,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Rice,25,20,27,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Jowar,25,25,32,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Rajma,25,15,25,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Maize,25,18,27,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Millet,25,15,20,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Soyabean,25,20,25,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Bajra,25,20,30,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Cardamom,25,15,33,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Garlic,25,15,23,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Turmeric,25,20,28,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Ginger,25,28,30,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Dry Chillies,25,45,50,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Cater Oil Seed,25,14,15,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Sunflower Seeds,25,4,10,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Cotton Seeds,25,22,36,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Moong,25,27,30,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Lemons,25,10,35,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Cauliflower,25,17,22,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Green Peas,25,10,30,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Pumpkins,25,18,27,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Potatos,25,15,20,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Gourds,25,20,32,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Tomatos,25,21,24,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Cabbages,25,15,21,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Onions,25,10,25,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Pigeon Peas,25,25,35,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Brinjal,25,26,40,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Cashew Nuts,25,10,40,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Groundnuts,25,26,35,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Tea ,25,20,27,0,LOW,HIGH
+Bihar,Gopalganj,16th March,Coffee,25,15,27,0,LOW,HIGH
