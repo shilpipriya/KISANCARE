@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">kisancare</string>
+
+    <string-array name="states">
+        <item>Bihar</item>
+        <item>Jharkhand</item>
+        <item>Punjab</item>
+        <item>Haryana</item>
+    </string-array>
+
+    <string name="title_activity_model4">model4Activity</string>
+
+    <string-array name="crops">
+        <item>Wheat</item>
+        <item>Rice</item>
+        <item>apple</item>
+        <item>mango</item>
+    </string-array>
+
+</resources>
