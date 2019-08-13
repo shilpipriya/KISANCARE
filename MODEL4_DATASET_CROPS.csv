@@ -1,0 +1,33 @@
+Crop,Lowtemp,hightemp,Low Rainfall in cm,High rainfall in cm,Low Ph,High Ph
+Wheat,21,24,30,100,6,7
+Rice,20,27,10,20,4,6
+Jowar,25,32,50,75,6,7.5
+Rajma,15,25,60,150,5.5,6
+Maize,18,27,60,110,5.5,7
+Millet,15,20,35,50,5.8,6.5
+Soyabean,20,25,20,250,5.6,7
+Bajra,20,30,40,75,1,6
+Cardamom,15,33,150,250,5.5,6.5
+Garlic,15,23,90,120,6,7.5
+Turmeric,20,28,70,225,6,6.5
+Ginger,28,30,150,300,5.5,6.5
+Dry Chillies,45,50,50,100,5.5,6.8
+Castor Oil Seed,14,15,15,20,6,8
+Sunflower ,4,10,50,75,6,7.5
+Cotton ,22,36,60,100,5.8,8
+Moong,27,30,50,70,6.2,7.2
+Lemons,10,35,90,250,5.5,6.5
+Cauliflower,17,22,65,100,6.5,6.8
+Green Peas,10,30,30,65,5.8,7
+Pumpkins,18,27,60,150,5.5,7.5
+Potatos,15,20,130,200,4.8,5.5
+Gourds,20,32,75,170,6,7
+Tomatos,21,24,40,60,6,6.8
+Cabbages,15,21,75,150,6.5,6.8
+Onions,10,25,20,100,5.5,6.5
+Pigeon Peas,25,35,50,100,5,7
+Brinjal,26,40,65,100,5.5,6
+Cashew Nuts,10,40,100,200,5,6.5
+Groundnuts,26,35,50,60,6.5,7
+Tea,20,27,150,250,4.5,5.5
+Coffee,15,27,150,250,4,7
